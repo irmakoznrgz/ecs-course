@@ -1,2 +1,2 @@
 # ecs-course
-Odev-1: Kişisel Web Sayfası Oluşturma https://github.com/irmakoznrgz/ecs-course
+Odev-1: https://github.com/irmakoznrgz/ecs-course Kişisel Web Sayfası: (https://irmakoznrgz.github.io/)

@@ -3,6 +3,8 @@
 kod-1: [Python Temelleri Hafta1-Ders2](https://colab.research.google.com/drive/1gWltgZmFFHOfoGKj5dGbwWU989T0lUDy?usp=sharing) <br>
 Ödev-1: [Basit Kayıt Sistemi](https://colab.research.google.com/drive/1YCc5GAzyg_Ka5Q58_BijESzssSn7Hehb?usp=sharing) <br>
 kod-2: [Python Temelleri Hafta2-Ders1](https://colab.research.google.com/drive/1L_KM_sYWoxQpL1OkT8NJ5m1zfPZryf5n?usp=sharing) [Not Hesaplayıcı](https://a78f4e48fc2753153f.gradio.live) <br>
-kod-3: [Pyhton Temelleri Hafta2-Ders2](https://colab.research.google.com/drive/1C1_D4TZSjQyJkUaCxXdis7H6m474bjrh?usp=sharing)
+kod-3: [Pyhton Temelleri Hafta2-Ders2](https://colab.research.google.com/drive/1C1_D4TZSjQyJkUaCxXdis7H6m474bjrh?usp=sharing) <br>
+kod-3(part2): [Numpy](https://colab.research.google.com/drive/1Onn1pYiHYr57OTMdNHqGLPclzRxRf0EI?usp=sharing)
+
 
 

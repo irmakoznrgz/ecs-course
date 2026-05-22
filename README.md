@@ -8,7 +8,7 @@ kod-3(part2): [Numpy Hafta2-Ders2](https://colab.research.google.com/drive/1Onn1
 kod-4: [Numpy-Pandas Hafta3-Ders1](https://colab.research.google.com/drive/19hQsYRbAM03wE6zSYjEpNw4am9biR9eo?usp=sharing) <br>
 kod-5: [Pandas Hafta3-Ders2](https://colab.research.google.com/drive/1tQ8jA_QJFN7hsoRPeo6WfwvwU73elOll?usp=sharing) <br>
 kod-5(part2): [Restoran Bahşiş Analizi](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing) <br>
-Ödev-2: [AI Studio Uygulama]()
+Ödev-2: [AI Studio Uygulama](https://colab.research.google.com/drive/1Ovtx8Ajx2ZCsqgP4MXVwloE-oJ79mYbb?usp=sharing) <br> 
 
 
 

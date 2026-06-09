@@ -9,7 +9,8 @@ kod-4: [Numpy-Pandas Hafta3-Ders1](https://colab.research.google.com/drive/19hQs
 kod-5: [Pandas Hafta3-Ders2](https://colab.research.google.com/drive/1tQ8jA_QJFN7hsoRPeo6WfwvwU73elOll?usp=sharing) <br>
 kod-5(part2): [Restoran Bahşiş Analizi](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing) <br>
 Ödev-2: [AI Studio Uygulama](https://colab.research.google.com/drive/1Ovtx8Ajx2ZCsqgP4MXVwloE-oJ79mYbb?usp=sharing) <br> 
-kod-6: [Hafta4-Ders1 Restoran Bahşiş Analizi Devam](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing)<br>
+kod-6: [Hafta4-Ders1 Restoran Bahşiş Analizi Devam](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing) <br>
+kod-7: [Hafta5-Ders1](https://colab.research.google.com/drive/1unqS7HSLxCkaWXoKH3Ewwaf7g2moUzQH?usp=sharing) <br>
 
 
 

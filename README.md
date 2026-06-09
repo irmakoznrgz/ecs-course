@@ -11,6 +11,7 @@ kod-5(part2): [Restoran Bahşiş Analizi](https://colab.research.google.com/driv
 Ödev-2: [AI Studio Uygulama](https://colab.research.google.com/drive/1Ovtx8Ajx2ZCsqgP4MXVwloE-oJ79mYbb?usp=sharing) <br> 
 kod-6: [Hafta4-Ders1 Restoran Bahşiş Analizi Devam](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing) <br>
 kod-7: [Hafta5-Ders1 Restoran Bahşiş Analizi ve 'car_crashes' Dashboard](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing) <br>
+Hafta5-Ders1: [Titanic Veri Seti Analizi](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
 
 
 

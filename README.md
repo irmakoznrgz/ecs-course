@@ -13,6 +13,8 @@ kod-6: [Hafta4-Ders1 Restoran Bahşiş Analizi Devam](https://colab.research.goo
 kod-7: [Hafta5-Ders1 Restoran Bahşiş Analizi ve 'car_crashes' Dashboard](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing) <br>
 Hafta5-Ders1: [Titanic Veri Seti Analizi](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
 Ödev-3: [Teachable Machinede Model Eğitme](https://colab.research.google.com/drive/1WGmA0ZoaRsXtI5kzjLZ9cADU475fQmH6?usp=sharing) & [Yiyecek Sınıflandırma Modeli](https://www.google.com/url?q=https%3A%2F%2Fteachablemachine.withgoogle.com%2Fmodels%2FZ93oXviu9%2F) <br>
-
+Hafta5-Ders2: [tm modeli python kodları]() <br>
+Hafta4-Ders2 Telafi: [Titanic Veri Seti Analizi](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
+Hafta6-Ders1: [Titanic Veri Seti Analizi]() <br>
 
 

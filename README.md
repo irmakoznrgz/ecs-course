@@ -18,6 +18,6 @@ Hafta4-Ders2 Telafi: [Titanic Veri Seti Analizi](https://www.kaggle.com/code/irm
 Hafta6-Ders1: [Titanic Veri Seti Analizi](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
 Hafta6-Ders1-2: [Titanik Veri Seti Modeli Son Hali](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
 Hafta6-Ders2: [İkinci El Araba Fiyat Tahmin Modeli](https://colab.research.google.com/drive/17oH7RzWaldjLiPjTmeDxC0lg_WYKIEIl?usp=sharing) <br>
-Hafta7-Ders1: [İkinci El Araç Tahmin Model Dosyası](https://drive.google.com/file/d/1by0c57FHKfBj7AYnCBlucdIh2uYKpcTL/view?usp=drive_link)<br>
+Hafta7-Ders1: [İkinci El Araç Tahmin Model Dosyası]([https://drive.google.com/file/d/1by0c57FHKfBj7AYnCBlucdIh2uYKpcTL/view?usp=drive_link](https://github.com/irmakoznrgz/ecs-course/blob/main/model/car_pipe.pkl))<br>
 
 

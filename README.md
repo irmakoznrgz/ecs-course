@@ -17,7 +17,9 @@ Hafta5-Ders2: [tm modeli python kodları]() <br>
 Hafta4-Ders2 Telafi: [Titanic Veri Seti Analizi](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
 Hafta6-Ders1: [Titanic Veri Seti Analizi](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
 Hafta6-Ders1-2: [Titanik Veri Seti Modeli Son Hali](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) <br>
-Hafta6-Ders2: [İkinci El Araba Fiyat Tahmin Modeli](https://colab.research.google.com/drive/17oH7RzWaldjLiPjTmeDxC0lg_WYKIEIl?usp=sharing) <br>
-Hafta7-Ders1: [İkinci El Araç Tahmin Model Dosyası](https://github.com/irmakoznrgz/ecs-course/blob/main/model/ikinci_el_arac_fiyat_tahmini.pkl)<br>
+Hafta6-Ders2: [İkinci El Araç Fiyat Tahmin Modeli](https://colab.research.google.com/drive/17oH7RzWaldjLiPjTmeDxC0lg_WYKIEIl?usp=sharing) <br>
+Hafta7-Ders1: [İkinci El Araç Fiyat Tahmin Model Dosyası](https://github.com/irmakoznrgz/ecs-course/blob/main/model/ikinci_el_arac_fiyat_tahmini.pkl)<br>
+Hafta7-Ders1(Ödev HugginFace):[İkinci El Araç Fiyat tahmin Sitesi]()<br>
+Hafta7-Ders2:[Gradio ile Basit Form Oluşturma](https://colab.research.google.com/drive/1sb9C8OCtK8EGWeMS2qquqigBfsQgrgiW?usp=sharing)<br>
 
 

@@ -21,5 +21,6 @@ Hafta6-Ders2: [İkinci El Araç Fiyat Tahmin Modeli](https://colab.research.goog
 Hafta7-Ders1: [İkinci El Araç Fiyat Tahmin Model Dosyası](https://github.com/irmakoznrgz/ecs-course/blob/main/model/ikinci_el_arac_fiyat_tahmini.pkl)<br>
 Hafta7-Ders1(Ödev HugginFace):[İkinci El Araç Fiyat tahmin Sitesi]()<br>
 Hafta7-Ders2:[Gradio ile Basit Form Oluşturma](https://colab.research.google.com/drive/1sb9C8OCtK8EGWeMS2qquqigBfsQgrgiW?usp=sharing)<br>
+Hafta7-Ders3:[Covid veri seti Görselleştirme](https://colab.research.google.com/drive/13o5m84Dhtmbb_mw_OpVzfi0s0sn5I6-C?usp=sharing)<br>
 
 

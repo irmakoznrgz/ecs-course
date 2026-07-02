@@ -22,5 +22,7 @@ Hafta7-Ders1: [İkinci El Araç Fiyat Tahmin Model Dosyası](https://github.com/
 Hafta7-Ders1(Ödev HugginFace):[İkinci El Araç Fiyat tahmin Sitesi]()<br>
 Hafta7-Ders2:[Gradio ile Basit Form Oluşturma](https://colab.research.google.com/drive/1sb9C8OCtK8EGWeMS2qquqigBfsQgrgiW?usp=sharing)<br>
 Hafta7-Ders3:[Covid veri seti Görselleştirme](https://colab.research.google.com/drive/13o5m84Dhtmbb_mw_OpVzfi0s0sn5I6-C?usp=sharing)<br>
+Hafta7-Ders3:[Ödev: Nüfus Değişim Grafiği](https://colab.research.google.com/drive/15VQ73ceC1ksqkTUGjpXJrBqo235cJ4Po?usp=sharing)<br>
+Hafta7-Ders3(part2):[Farklı Kaynkalardan Veri Çemke](https://colab.research.google.com/drive/1tj68VproFPORprssgKOlg4WIQgRsRC5g?usp=sharing)<br>
 
 

@@ -27,5 +27,5 @@ Hafta7-Ders3(part2):[Farklı Kaynkalardan Veri Çekme](https://colab.research.go
 Hafta7-Ders3(part3):[Bing Arama Motoru ile Görsel indirmek](https://colab.research.google.com/drive/1eqkhy7ArL_l6z5ovS_2L9TID3Bwy5oqj?usp=sharing)<br>
 Hafta8-Ders1:[Topluluk Öğrenme Modelleri (Ensemble Learning)](https://colab.research.google.com/drive/1iq0p-fZSmB1VU1Dnie8DdhVIHXLJa9F-?usp=sharing)<br>
 Hafta8-Ders1:[Ödev: BI İş Zekası & İş Analitiği](https://colab.research.google.com/drive/1ASL1a-Ch7fR7oE_XFeuvQhp5UZWR3ZxQ?usp=sharing)<br>
-Hafta8-Ders2:[Zaman Serisi](https://colab.research.google.com/drive/1wWOHlpGAO6cO8JaVdixUaS7eFxMAUsTH?usp=sharing)<br>
+Hafta8-Ders2:[Adidas Zaman Serisi Analizi](https://colab.research.google.com/drive/1wWOHlpGAO6cO8JaVdixUaS7eFxMAUsTH?usp=sharing)<br>
 

@@ -23,7 +23,7 @@ Hafta7-Ders1(Ödev HugginFace):[İkinci El Araç Fiyat tahmin Sitesi]()<br>
 Hafta7-Ders2:[Gradio ile Basit Form Oluşturma](https://colab.research.google.com/drive/1sb9C8OCtK8EGWeMS2qquqigBfsQgrgiW?usp=sharing)<br>
 Hafta7-Ders3:[Covid veri seti Görselleştirme](https://colab.research.google.com/drive/13o5m84Dhtmbb_mw_OpVzfi0s0sn5I6-C?usp=sharing)<br>
 Hafta7-Ders3:[Ödev: Nüfus Değişim Grafiği](https://colab.research.google.com/drive/15VQ73ceC1ksqkTUGjpXJrBqo235cJ4Po?usp=sharing)<br>
-Hafta7-Ders3(part2):[Farklı Kaynkalardan Veri Çemke](https://colab.research.google.com/drive/1tj68VproFPORprssgKOlg4WIQgRsRC5g?usp=sharing)<br>
+Hafta7-Ders3(part2):[Farklı Kaynkalardan Veri Çekme](https://colab.research.google.com/drive/1tj68VproFPORprssgKOlg4WIQgRsRC5g?usp=sharing)<br>
 Hafta7-Ders3(part3):[Bing Arama Motoru ile Görsel indirmek](https://colab.research.google.com/drive/1eqkhy7ArL_l6z5ovS_2L9TID3Bwy5oqj?usp=sharing)<br>
 Hafta8-Ders1:[Topluluk Öğrenme Modelleri (Ensemble Learning)](https://colab.research.google.com/drive/1iq0p-fZSmB1VU1Dnie8DdhVIHXLJa9F-?usp=sharing)<br>
 

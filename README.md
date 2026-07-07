@@ -25,5 +25,5 @@ Hafta7-Ders3:[Covid veri seti Görselleştirme](https://colab.research.google.co
 Hafta7-Ders3:[Ödev: Nüfus Değişim Grafiği](https://colab.research.google.com/drive/15VQ73ceC1ksqkTUGjpXJrBqo235cJ4Po?usp=sharing)<br>
 Hafta7-Ders3(part2):[Farklı Kaynkalardan Veri Çemke](https://colab.research.google.com/drive/1tj68VproFPORprssgKOlg4WIQgRsRC5g?usp=sharing)<br>
 Hafta7-Ders3(part3):[Bing Arama Motoru ile Görsel indirmek](https://colab.research.google.com/drive/1eqkhy7ArL_l6z5ovS_2L9TID3Bwy5oqj?usp=sharing)<br>
-
+Hafta8-Ders1:[Topluluk Öğrenme Modelleri (Ensemble Learning)](https://colab.research.google.com/drive/1iq0p-fZSmB1VU1Dnie8DdhVIHXLJa9F-?usp=sharing)<br>
 

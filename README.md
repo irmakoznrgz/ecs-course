@@ -31,4 +31,4 @@ Hafta8-Ders2:[Adidas Zaman Serisi Analizi](https://colab.research.google.com/dri
 Hafta8-Ders3:[Film Öneri Sistemi](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>
 Hafta9-Ders1:[İptal]()<br>
 Hafta9-Ders2:[İçerik Bazlı Film Öneri Arayüzü (Ödev)](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>
-Hafta9-Ders2:[Kullanıcı Bazlı Film Öneri Arayüzü (Collaborative Filtering)](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>
+Hafta9-Ders2(part2):[Kullanıcı Bazlı Film Öneri Arayüzü (Collaborative Filtering)](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>

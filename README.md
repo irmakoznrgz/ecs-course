@@ -30,4 +30,4 @@ Hafta8-Ders1:[Ödev: BI İş Zekası & İş Analitiği](https://colab.research.g
 Hafta8-Ders2:[Adidas Zaman Serisi Analizi](https://colab.research.google.com/drive/1wWOHlpGAO6cO8JaVdixUaS7eFxMAUsTH?usp=sharing)<br>
 Hafta8-Ders3:[Film Öneri Sistemi](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>
 Hafta9-Ders1:[İptal]()<br>
-
+Hafta9-Ders2:[İçerik Bazlı Film Öneri Arayüzü (Ödev)](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>

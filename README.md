@@ -32,3 +32,4 @@ Hafta8-Ders3:[Film Öneri Sistemi](https://colab.research.google.com/drive/1j9Fu
 Hafta9-Ders1:[İptal]()<br>
 Hafta9-Ders2:[İçerik Bazlı Film Öneri Arayüzü (Ödev)](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>
 Hafta9-Ders2(part2):[Kullanıcı Bazlı Film Öneri Arayüzü (Collaborative Filtering)](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing)<br>
+Hafta9-Ders3:[Hugging Face Üzerinden Ürün Geliştirme](https://colab.research.google.com/drive/1YCWzZ4-4oq7wV0KpxSEcts33de6uwfOG?usp=sharing)<br>

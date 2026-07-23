@@ -1,6 +1,7 @@
-# 📚 ECS Course - Python & Machine Learning Dersleri
+# 📚 ECS Course - Veri Bilimi ve Yapay Zeka
+Uzmanlığı Eğitimi
 
-> **Ödev Deposu:** [GitHub](https://github.com/irmakoznrgz/ecs-course) | **Kişisel Web Sayfası:** [irmakoznrgz.github.io](https://irmakoznrgz.github.io/)
+> **Github Reposu:** [GitHub](https://github.com/irmakoznrgz/ecs-course) | **Kişisel Web Sayfası:** [irmakoznrgz.github.io](https://irmakoznrgz.github.io/)
 
 ---
 
@@ -92,15 +93,3 @@
 | Ders 3 | Haber Özetleme Modeli | [Colab](https://colab.research.google.com/drive/1Fa6dCAWpXITeT6R3oNu4sR6JwjBi3O1d?usp=sharing) |
 
 ---
-
-## ✨ İyileştirmeler
-
-Dosya şu şekilde optimize edildi:
-
-1. **📊 Tablo Formatı** - Her hafta kendi tablosunda organize edildi
-2. **😊 Emoji Eklemesi** - Hızlı tarama için görsel göstergeler
-3. **Başlık Hiyerarşisi** - Haftalara göre net bölümlendirme
-4. **Vurgu** - Ödevler **kalın** yazı ile öne çıkarıldı
-5. **Tutarlılık** - Tüm bağlantılar aynı formatta
-6. **Boşluk & Okunabilirlik** - Dividerler ve açık yapı
-7. **Kişisel Web Sayfası** - En üstte ön plana çıkarıldı

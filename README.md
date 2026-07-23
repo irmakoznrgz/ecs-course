@@ -36,3 +36,4 @@ Hafta9-Ders3:[Hugging Face Üzerinden Ürün Geliştirme](https://colab.research
 Hafta10-Ders1:[Hugging Face Duygu Analizi Modeli](https://colab.research.google.com/drive/19U3QgyPAWqHf5Vx8jSKdpvIfZvVZyJZ5?usp=sharing)<br>
 Hafta10-Ders2:[Gemini API Kullanımı](https://colab.research.google.com/drive/1ypljAGUOaSuX6aFtcKD_hbklsoUTLHde?usp=sharing)<br>
 Hafta10-Ders2(part2):[Gemini API Kullanımı](https://colab.research.google.com/drive/1JyyGrFycNPGMWGO0d4k8jxXBOP8T9599?usp=sharing)<br>
+Hafta10-Ders3:[Hugging Face Haber Özetleme Modeli](https://colab.research.google.com/drive/1Fa6dCAWpXITeT6R3oNu4sR6JwjBi3O1d?usp=sharing)<br>

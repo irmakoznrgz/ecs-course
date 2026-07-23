@@ -1,7 +1,6 @@
-# 📚 ECS Course - Veri Bilimi ve Yapay Zeka
-Uzmanlığı Eğitimi
+# 📚 ECS Course - Veri Bilimi ve Yapay Zeka Uzmanlığı Eğitimi
 
-> **Github Reposu:** [GitHub](https://github.com/irmakoznrgz/ecs-course) | **Kişisel Web Sayfası:** [irmakoznrgz.github.io](https://irmakoznrgz.github.io/)
+>  **Kişisel Web Sayfası:** [irmakoznrgz.github.io](https://irmakoznrgz.github.io/)
 
 ---
 

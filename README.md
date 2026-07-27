@@ -92,4 +92,11 @@
 | Ders 3 | HuggingFace Haber Özetleme Modeli | [Colab](https://colab.research.google.com/drive/1Fa6dCAWpXITeT6R3oNu4sR6JwjBi3O1d?usp=sharing) |
 | Ödev | ElevenLabs ile Üniversite Asistanı | [ElevenAgents](https://elevenlabs.io/app/talk-to?agent_id=agent_0001ky9zf1czfdfs7xrdhexy5qe3&branch_id=agtbrch_4401ky9zf23ae5887xczhaaa5bxj) |
 
+## 📅 Hafta 11: OpenCV ile Görüntü İşleme & CNN
+
+| Ders | İçelik | Bağlantı |
+|------|--------|---------|
+| Ders 1 | OpenCV ile Görüntü İşleme | [Colab](https://colab.research.google.com/drive/1gic8KuQjGgfapCWB_ObZepdDCNL5mRNt?usp=sharing) |
+| Ders 1 (Streamlit App)| Görseli Sİyah Beyaza Çevirme | [Streamlit]([https://colab.research.google.com/drive/1gic8KuQjGgfapCWB_ObZepdDCNL5mRNt?usp=sharing](https://siyahbeyaz.streamlit.app/)) |
+
 ---

@@ -97,6 +97,6 @@
 | Ders | İçelik | Bağlantı |
 |------|--------|---------|
 | Ders 1 | OpenCV ile Görüntü İşleme | [Colab](https://colab.research.google.com/drive/1gic8KuQjGgfapCWB_ObZepdDCNL5mRNt?usp=sharing) |
-| Ders 1 (Streamlit App)| Görseli Sİyah Beyaza Çevirme | [Streamlit]([https://colab.research.google.com/drive/1gic8KuQjGgfapCWB_ObZepdDCNL5mRNt?usp=sharing](https://siyahbeyaz.streamlit.app/)) |
+| Ders 1 (Streamlit App)| Görseli Siyah Beyaza Çevirme | [Streamlit](https://siyahbeyaz.streamlit.app/) |
 
 ---

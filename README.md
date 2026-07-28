@@ -78,8 +78,8 @@
 | Ders | İçelik | Bağlantı |
 |------|--------|---------|
 | Ders 1 | İptal | — |
-| Ders 2 (Ödev) | İçerik Bazlı Film Önerileri | [Colab](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing) |
 | Ders 2 (part 2) | Kullanıcı Bazlı Film Önerileri | [Colab](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing) |
+| Ders 2 (Ödev) | İçerik Bazlı Film Önerileri | [Colab](https://colab.research.google.com/drive/1j9FuWQPhhpj6Xr21-PXIjOeiIb7pI2z4?usp=sharing) |
 | Ders 3 | HuggingFace Duygu Analizi Modeli | [Colab](https://colab.research.google.com/drive/1YCWzZ4-4oq7wV0KpxSEcts33de6uwfOG?usp=sharing) |
 
 ## 📅 Hafta 10: Doğal Dil İşleme (NLP) & LLM'ler (HuggingFace Uygulamaları)

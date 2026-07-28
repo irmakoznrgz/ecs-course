@@ -40,7 +40,7 @@
 | Ders | İçerik | Bağlantı |
 |------|--------|---------|
 | Ders 1 | Restoran Bahşiş Analizi & Dashboard | [Colab](https://colab.research.google.com/drive/1nVZc9PEesj9zoNiH4b5CFhl9h4xXaAxD?usp=sharing) |
-| Ders 1 | Titanic Veri Seti Analizi | [Kaggle](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) |
+| Ders 1 (part2) | Titanic Veri Seti Analizi | [Kaggle](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) |
 | Ders 2 | Teachable Machine Modeli (Python) | [Colab](https://colab.research.google.com/drive/1j6oV0EXpMqFilecgBGLowRiNeFgh11XA?usp=sharing) |
 | **Ödev 3** | **Teachable Machine & Yiyecek Sınıflandırması** | [Colab](https://colab.research.google.com/drive/1WGmA0ZoaRsXtI5kzjLZ9cADU475fQmH6?usp=sharing) |
 

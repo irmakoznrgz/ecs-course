@@ -60,9 +60,9 @@
 | Ders 1 (Ödev) | HuggingFace Uygulaması | *Devam Edecek* |
 | Ders 2 | Gradio ile Form Oluşturma | [Colab](https://colab.research.google.com/drive/1sb9C8OCtK8EGWeMS2qquqigBfsQgrgiW?usp=sharing) |
 | Ders 3 | COVID-19 Veri Görselleştirme | [Colab](https://colab.research.google.com/drive/13o5m84Dhtmbb_mw_OpVzfi0s0sn5I6-C?usp=sharing) |
-| Ders 3 (Ödev) | Nüfus Değişim Grafiği | [Colab](https://colab.research.google.com/drive/15VQ73ceC1ksqkTUGjpXJrBqo235cJ4Po?usp=sharing) |
 | Ders 3 (part 2) | Farklı Kaynaklardan Veri Çekme | [Colab](https://colab.research.google.com/drive/1tj68VproFPORprssgKOlg4WIQgRsRC5g?usp=sharing) |
 | Ders 3 (part 3) | Bing ile Görsel İndirme | [Colab](https://colab.research.google.com/drive/1eqkhy7ArL_l6z5ovS_2L9TID3Bwy5oqj?usp=sharing) |
+| Ders 3 (Ödev) | Nüfus Değişim Grafiği | [Colab](https://colab.research.google.com/drive/15VQ73ceC1ksqkTUGjpXJrBqo235cJ4Po?usp=sharing) |
 
 ## 📅 Hafta 8: İleri ML Teknikleri
 

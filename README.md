@@ -57,7 +57,7 @@
 | Ders | İçerik | Bağlantı |
 |------|--------|---------|
 | Ders 1 | İkinci El Araç Fiyat Model Dosyası | [GitHub](https://github.com/irmakoznrgz/ecs-course/blob/main/model/ikinci_el_arac_fiyat_tahmini.pkl) |
-| Ders 1 (Ödev) | HuggingFace Uygulaması | *Devam Edecek* |
+| Ders 1 (Ödev) | HuggingFace Uygulaması | - |
 | Ders 2 | Gradio ile Form Oluşturma | [Colab](https://colab.research.google.com/drive/1sb9C8OCtK8EGWeMS2qquqigBfsQgrgiW?usp=sharing) |
 | Ders 3 | COVID-19 Veri Görselleştirme | [Colab](https://colab.research.google.com/drive/13o5m84Dhtmbb_mw_OpVzfi0s0sn5I6-C?usp=sharing) |
 | Ders 3 (part 2) | Farklı Kaynaklardan Veri Çekme | [Colab](https://colab.research.google.com/drive/1tj68VproFPORprssgKOlg4WIQgRsRC5g?usp=sharing) |

@@ -90,7 +90,7 @@
 | Ders 2 | Gemini API ile Model Kullanımı | [Colab](https://colab.research.google.com/drive/1ypljAGUOaSuX6aFtcKD_hbklsoUTLHde?usp=sharing) |
 | Ders 2 (part 2) | Gemini API ile Üniversite Destek Asistanı | [Colab](https://colab.research.google.com/drive/1JyyGrFycNPGMWGO0d4k8jxXBOP8T9599?usp=sharing) |
 | Ders 3 | HuggingFace Haber Özetleme Modeli | [Colab](https://colab.research.google.com/drive/1Fa6dCAWpXITeT6R3oNu4sR6JwjBi3O1d?usp=sharing) |
-| Ödev | ElevenLabs ile Üniversite Asistanı | [ElevenAgents](https://elevenlabs.io/app/talk-to?agent_id=agent_0001ky9zf1czfdfs7xrdhexy5qe3&branch_id=agtbrch_4401ky9zf23ae5887xczhaaa5bxj) |
+| Ders3 (Ödev) | ElevenLabs ile Üniversite Asistanı | [ElevenAgents](https://elevenlabs.io/app/talk-to?agent_id=agent_0001ky9zf1czfdfs7xrdhexy5qe3&branch_id=agtbrch_4401ky9zf23ae5887xczhaaa5bxj) |
 
 ## 📅 Hafta 11: OpenCV ile Görüntü İşleme & CNN
 

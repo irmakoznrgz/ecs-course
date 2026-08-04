@@ -52,7 +52,7 @@
 | Ders 1 (part2) | Titanic Model Son Hali | [Kaggle](https://www.kaggle.com/code/irmakznergiz/titanic-veri-analizi) |
 | Ders 2 | İkinci El Araç Fiyat Tahmin | [Colab](https://colab.research.google.com/drive/17oH7RzWaldjLiPjTmeDxC0lg_WYKIEIl?usp=sharing) |
 
-## 📅 Hafta 7: Model Dağıtımı (Deployment)
+## 📅 Hafta 7: Model Dağıtımı (Deployment) & Yarışan Grafikler
 
 | Ders | İçerik | Bağlantı |
 |------|--------|---------|

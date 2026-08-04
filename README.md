@@ -101,10 +101,11 @@
 | Ders 2 | OpenCV ile Antigravityde Proje üretme | [Vibe Coding]() |
 | Ders 3 | Yapay Sinir Ağlarında Tek Bir Nöron ile Çalışma | [Colab](https://colab.research.google.com/drive/1kmrwnxwSKke4lB3JoJ9g6_4QXh1tNEd7?usp=sharing) |
 
-## 📅 Hafta 12: Derin Öğrenme
+## 📅 Hafta 12: Derin Öğrenme & Yapay Sinir Ağları & CNN
 
 | Ders | İçerik | Bağlantı |
 |------|--------|---------|
 | Ders 1 | MNIST Rakam Tanıma | [Colab](https://colab.research.google.com/drive/1kFCAxgukq9PlVPFGyzcPtc7icpIzMAyf?usp=sharing) |
+| Ders 2 | Convolution Neural Network (CNN) | [Colab](https://colab.research.google.com/drive/14lvabALJSr9cL-wXt5RrXa7obMRsKFqg?usp=sharing) |
 
 ---
